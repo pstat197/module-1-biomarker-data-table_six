@@ -1,0 +1,1318 @@
+protein,n_out
+TLR2,7
+C1q,6
+IL-13,6
+TGM3,6
+GM-CSF,6
+hnRNP K,6
+Coagulation Factor IXab,6
+Gastrin-releasing peptide,6
+SOD3,6
+RXFP1,5
+b-Endorphin,5
+eIF-5,5
+NPS-PLA2,5
+IL-17F,5
+RAP,5
+COX-2,5
+CK-BB,5
+FGF-6,5
+Neurotrophin-3,5
+PFD5,5
+PTP-1C,5
+AMNLS,5
+CO8A1,5
+Coagulation Factor IX,5
+WNT7A,5
+ARTS1,5
+B7-H1,5
+IL-20 Ra,5
+ROBO3,5
+SIG14,5
+PDE9A,5
+PDK1,5
+EGFRvIII,5
+Ficolin-3,5
+Cathepsin D,5
+S100A7,5
+PACAP-27,5
+RSPO4,5
+UBP25,5
+Mcl-1,4
+c-Myc,4
+TLR4,4
+SOST,4
+IFN10,4
+IFNA7,4
+Annexin V,4
+4-1BB ligand,4
+HIV-2 Rev,4
+EDA,4
+Topoisomerase I,4
+IL-4,4
+IL-18 Rb,4
+Galectin-2,4
+GFAP,4
+vWF,4
+"Fas ligand, soluble",4
+FGF-5,4
+GDF-9,4
+PlGF,4
+XEDAR,4
+MK01,4
+VEGF-C,4
+CYTF,4
+ABL1,4
+Carbonic anhydrase VII,4
+CDK5/p35,4
+Chk2,4
+CLC4K,4
+Granzyme H,4
+Kallikrein 7,4
+FN1.4,4
+HIPK3,4
+TRY3,4
+Vasoactive Intestinal Peptide,4
+a1-Antitrypsin,4
+OLR1,4
+sTie-2,4
+FGFR-3,4
+IL-12 RB2,4
+PAK6,4
+PTK6,4
+PPAC,4
+Phosphoglycerate mutase 1,4
+Eotaxin-2,4
+Fibronectin,4
+IL-17E,4
+Histone H2A.z,4
+DRG-1,4
+NDP kinase B,4
+FGF-8A,4
+FCRL3,4
+TNF-b,4
+FAM107B,4
+Caspase-2,4
+HCG,4
+Integrin aVb5,4
+TF,4
+annexin I,4
+FCAR,4
+MK12,4
+SSRP1,4
+Tropomyosin 1 alpha chain,4
+TS,4
+CD226,4
+JAML1,4
+KI3L2,4
+KI3S1,4
+KLRF1,4
+LIMP II,4
+NKp46,4
+TAJ,4
+AMPK a1b1g1,4
+K-ras,4
+HMGR,4
+PPIE,4
+Cyclophilin F,4
+GRB2-related adapter protein 2,4
+GHC2,4
+sLeptin R,4
+RASA1,4
+AFP,4
+BID,4
+CD70,4
+GDNF,4
+eIF-5A-1,4
+Nucleoside diphosphate kinase A,4
+TNF-a,4
+ANK2,4
+HGH,4
+RNase H1,4
+DSCAM,4
+MIG,4
+Corticotropin-lipotropin,4
+PEDF,4
+NSE,3
+PIAS4,3
+IRF1,3
+OAS1,3
+STAT1,3
+GPDA,3
+PDXK,3
+Apo L1,3
+CD38,3
+BTC,3
+Apoptosis regulator Bcl-W,3
+SNP25,3
+Lumican,3
+HXK2,3
+PIANP,3
+ZNRF3,3
+IFN-b,3
+AMGO2,3
+H31,3
+IL-1F8,3
+14-3-3E,3
+HCE001796,3
+BDNF,3
+FGF-10,3
+MIP-3a,3
+Factor I,3
+PRL,3
+Ephrin-A4,3
+ERBB2,3
+GA733-1 protein,3
+"gp130, soluble",3
+HO-2,3
+HSP 90a/b,3
+Layilin,3
+Rab GDP dissociation inhibitor beta,3
+Calpain I,3
+Persephin,3
+PF-4,3
+EPO-R,3
+NANOG,3
+NKp44,3
+Apo A-I,3
+FGF-18,3
+IL-22,3
+MCP-2,3
+SOD,3
+ACE2,3
+ART,3
+Fractalkine/CX3CL-1,3
+Ku70,3
+OX40 Ligand,3
+Ubiquitin+1,3
+WIF-1,3
+CHK1,3
+Hat1,3
+TBP,3
+YES,3
+PCNA,3
+sRANKL,3
+ALK-1,3
+CTGF,3
+ICOS,3
+IL-1 sRI,3
+a2-Antiplasmin,3
+bFGF,3
+MIP-1a,3
+Flt3 ligand,3
+WISP-1,3
+LBP,3
+ULBP-2,3
+Aurora kinase A,3
+SMAC,3
+IL-2 sRa,3
+Enterokinase,3
+Glutamate carboxypeptidase,3
+IDE,3
+IDS,3
+ASAH2,3
+PGRP-S,3
+CAMK2B,3
+HCK,3
+PK3CG,3
+TPSG1,3
+BMX,3
+EPHA3,3
+Periostin,3
+Thrombopoietin Receptor,3
+Thrombospondin-1,3
+a2-HS-Glycoprotein,3
+BMPER,3
+Macrophage scavenger receptor,3
+ALT,3
+p27Kip1,3
+BNP-32,3
+Cadherin-2,3
+FGFR-2,3
+FGR,3
+KPCT,3
+MK08,3
+pTEN,3
+UFM1,3
+HSP 40,3
+NACA,3
+Peroxiredoxin-1,3
+RS7,3
+RSK-like protein kinase,3
+ARI3A,3
+LDH-H 1,3
+Mesothelin,3
+NAGK,3
+PSD7,3
+Sorting nexin 4,3
+discoidin domain receptor 1,3
+Granzyme B,3
+IL-17D,3
+IL-7,3
+IP-10,3
+Lymphotactin,3
+Neurotrophin-5,3
+TGF-b2,3
+Thyroglobulin,3
+4EBP2,3
+6-Phosphogluconate dehydrogenase,3
+NSF1C,3
+PA2G4,3
+Protein disulfide-isomerase,3
+Sphingosine kinase 1,3
+"transcription factor MLR1, isoform CRA_b",3
+XTP3A,3
+DHH,3
+FGF-12,3
+IFN-lambda 1,3
+GREM1,3
+LRRT3,3
+Ubiquitin,3
+C3b,3
+IL-3 Ra,3
+IL-11,3
+"Kininogen, HMW",3
+CTAP-III,3
+Livin B,3
+RSPO2,3
+SORC2,3
+IL-6,3
+3HIDH,3
+ITI heavy chain H4,3
+G-CSF,3
+BMP RII,3
+GDF2,3
+Insulin,3
+MIP-3b,3
+annexin II,3
+CAPG,3
+carbonic anhydrase II,3
+CRK,3
+FABPE,3
+FAK1,3
+GRN,3
+MMP-14,3
+MK13,3
+PBEF,3
+PARK7,3
+Peroxiredoxin-5,3
+PUR8,3
+SIRT2,3
+SPTA2,3
+DcR3,3
+IL-17B R,3
+IL-7 Ra,3
+ILT-4,3
+JAG2,3
+MO2R1,3
+Nr-CAM,3
+TWEAKR,3
+NMT1,3
+GCKR,3
+CK2-A2:B,3
+NR1D1,3
+AMPK a2b2g1,3
+B7-2,3
+calgranulin B,3
+Keratin 18,3
+MIF,3
+BAFF Receptor,3
+CD27,3
+"Troponin I, skeletal, fast twitch",3
+Troponin I,3
+IL-17 RC,3
+MED-1,3
+PKC-G,3
+PSMA,3
+IFN-g R1,3
+BAD,3
+Dynactin subunit 2,3
+EF-1-beta,3
+HINT1,3
+TWEAK,3
+Somatostatin-28,3
+NET1,3
+CREL1,3
+ghrelin,3
+BMP-6,3
+Activin AB,3
+FBLN3,3
+SUMO3,3
+MUC1,3
+NEUREGULIN-1,3
+INGR2,3
+ATPO,3
+FTCD,3
+SMAD2,2
+PDGFRA,2
+IL-12,2
+LRRK2,2
+Osteocalcin,2
+IL-5,2
+IgA,2
+HEMK2,2
+HSP 27,2
+GDF-11,2
+S100A6,2
+RSPO3,2
+CSH,2
+LYPD3,2
+BCL6,2
+Osteopontin,2
+CHKB,2
+FLRT2,2
+LDLR,2
+SEM5A,2
+S100A4,2
+RNF43,2
+TRAIL R4,2
+NRG4,2
+H2A3,2
+IFN-g,2
+UCRP,2
+Ephrin-A3,2
+14-3-3 protein beta/alpha,2
+CTACK,2
+TIMP-1,2
+HCE003183,2
+EG-VEGF,2
+HCE004333,2
+TGF-b1,2
+HCE000342,2
+Cathepsin G,2
+GV,2
+SAP,2
+Angiopoietin-4,2
+Cadherin E,2
+Ephrin-B3,2
+IGFBP-3,2
+MCP-1,2
+MMP-9,2
+Myeloperoxidase,2
+Dtk,2
+Ephrin-A5,2
+HPV E7 Type18,2
+IL-10 Rb,2
+IL-2 sRg,2
+PAFAH beta subunit,2
+PKC-A,2
+sICAM-3,2
+TrkC,2
+BCMA,2
+CK-MM,2
+HGF,2
+HSP 60,2
+Thyroxine-Binding Globulin,2
+CNTFR alpha,2
+Laminin,2
+Sonic Hedgehog,2
+IgG,2
+TSLP R,2
+ULBP-3,2
+Azurocidin,2
+FGF9,2
+IL-10,2
+IL-16,2
+NAP-2,2
+Activin RIB,2
+ADAMTS-4,2
+BCAM,2
+CD97,2
+HAI-1,2
+IL-27,2
+Kallikrein 4,2
+kallikrein 8,2
+Lipocalin 2,2
+ERK-1,2
+Glucocorticoid receptor,2
+Karyopherin-a2,2
+MEK1,2
+MOZ,2
+RAC1,2
+RAD51,2
+UBC9,2
+a1-Antichymotrypsin,2
+Cardiotrophin-1,2
+Midkine,2
+Artemin,2
+Cytochrome c,2
+GX,2
+Luteinizing hormone,2
+Protein C,2
+PTHrP,2
+AREG,2
+BMP-7,2
+EDAR,2
+ENA-78,2
+Galectin-4,2
+Gro-a,2
+JAM-C,2
+MBL,2
+NKp30,2
+PTP-1B,2
+TSLP,2
+CTLA-4,2
+I-TAC,2
+PTN,2
+IL-4 sR,2
+NKG2D,2
+IL-18 BPa,2
+ULBP-1,2
+sCD4,2
+TNF sR-II,2
+AMPM2,2
+amyloid precursor protein,2
+ASAHL,2
+Carbonic Anhydrase IV,2
+GPVI,2
+HPLN1,2
+kallikrein 13,2
+kallikrein 5,2
+KREM2,2
+LYVE1,2
+MEPE,2
+PIGR,2
+Protease nexin I,2
+Semaphorin 3A,2
+ANGL3,2
+BGN,2
+C1r,2
+CD48,2
+Contactin-4,2
+DLL4,2
+GPC2,2
+HTRA2,2
+LRIG3,2
+MATN2,2
+NET4,2
+RGM-C,2
+TFPI,2
+Aminoacylase-1,2
+Antithrombin III,2
+Cathepsin V,2
+ECM1,2
+KPCI,2
+LYNB,2
+PAK7,2
+PCI,2
+PLK-1,2
+SHP-2,2
+TBK1,2
+TCPTP,2
+UFC1,2
+Bcl-2,2
+Flt-3,2
+granzyme A,2
+GSK-3 alpha/beta,2
+IL-15 Ra,2
+Kallikrein 6,2
+LCK,2
+RPS6KA3,2
+DUS3,2
+Catalase,2
+IFN-aA,2
+IL-17B,2
+Lymphotoxin a1/b2,2
+Lymphotoxin a2/b1,2
+TAFI,2
+"CD40 ligand, soluble",2
+DKK1,2
+dopa decarboxylase,2
+Arylsulfatase A,2
+BMP10,2
+Caspase-3,2
+CATE,2
+CHL1,2
+HGFA,2
+MP2K2,2
+Nectin-like protein 1,2
+Soggy-1,2
+Cadherin-12,2
+complement factor H-related 5,2
+Albumin,2
+a2-Macroglobulin,2
+Angiostatin,2
+PYY,2
+Secretin,2
+TNR4,2
+Activated Protein C,2
+ADAM 9,2
+ANGL4,2
+Carbonic anhydrase 9,2
+Carbonic anhydrase III,2
+Cystatin-S,2
+FGF23,2
+MAPK5,2
+PDGF-CC,2
+AIP,2
+Cyclophilin A,2
+DLRB1,2
+ETHE1,2
+MDHC,2
+PSA6,2
+SBDS,2
+SE6L2,2
+SGTA,2
+TCTP,2
+UB2L3,2
+CaMKK alpha,2
+CDC37,2
+DLC8,2
+IMB1,2
+ING1,2
+PLPP,2
+SKP1,2
+UBE2N,2
+FGF-4,2
+FST,2
+HB-EGF,2
+PDGF-BB,2
+Plasmin,2
+Plasminogen,2
+Prekallikrein,2
+alpha-1-antichymotrypsin complex,2
+MMP-2,2
+Transferrin,2
+Aflatoxin B1 aldehyde reductase,2
+AK1A1,2
+EP15R,2
+ERAB,2
+FER,2
+LCMT1,2
+LIN7B,2
+NUDC3,2
+paraoxonase 1,2
+PESC,2
+prostatic binding protein,2
+RAN,2
+RBM39,2
+SNAA,2
+Transketolase,2
+Triosephosphate isomerase,2
+BOC,2
+SAA,2
+DAPK2,2
+FGF-16,2
+MSP,2
+ADAM12,2
+BCL2-like 1 protein,2
+CHST6,2
+ENTP3,2
+LRRT1,2
+PDPK1,2
+Sialoadhesin,2
+"C5b, 6 Complex",2
+FGF7,2
+IL-5 Ra,2
+NCAM-120,2
+PDGF-AA,2
+BSSP4,2
+BST1,2
+DnaJ homolog,2
+FLRT1,2
+Fucosyltransferase 3,2
+GP114,2
+KIRR3,2
+PLXC1,2
+17-beta-HSD 1,2
+Apo D,2
+IL-3,2
+Afamin,2
+CBG,2
+C34 gp41 HIV Fragment,2
+TRAIL R1,2
+Epithelial cell kinase,2
+Glypican 3,2
+IL-1a,2
+BMPR1A,2
+MCP-3,2
+ACTH,2
+Glucagon,2
+Endoglin,2
+Galectin-8,2
+GIB,2
+GOT1,2
+HCC-4,2
+Lysozyme,2
+ARMEL,2
+ARP19,2
+cIAP-2,2
+DBNL,2
+Esterase D,2
+GPC5,2
+GSTA3,2
+HPG-,2
+JAK2,2
+Mammaglobin 2,2
+MK11,2
+Moesin,2
+"Myokinase, human",2
+NCK1,2
+PAFAH,2
+PGP9.5,2
+phosphoglycerate kinase 1,2
+Rb,2
+RS3,2
+Trypsin 2,2
+TSG-6,2
+B7-H2,2
+CD244,2
+CD83,2
+IL-1 sR9,2
+IL-23 R,2
+ILT-2,2
+KI2L4,2
+LAG-3,2
+NOTC2,2
+Notch 1,2
+NRX1B,2
+OX2G,2
+Prolactin Receptor,2
+RELT,2
+SEM6B,2
+Semaphorin-6A,2
+SREC-II,2
+TGF-b R II,2
+TIMD3,2
+PDE7A,2
+PPID,2
+PSME3,2
+CK2-A1:B,2
+KIF23,2
+PCSK9,2
+PDE1A,2
+PDE3A,2
+PDE5A,2
+calreticulin,2
+MMP-16,2
+SHC1,2
+VAV,2
+Elastase,2
+CPNE1,2
+GPC6,2
+HVEM,2
+IL-1Ra,2
+NLGNX,2
+BRF-1,2
+RANK,2
+COLEC12,2
+DEAD-box protein 19B,2
+GRB2 adapter protein,2
+HSP 90b,2
+RBP,2
+RS3A,2
+Stress-induced-phosphoprotein 1,2
+WNK3,2
+GITR,2
+bFGF-R,2
+TRAIL R2,2
+b-NGF,2
+IL-9,2
+LIF sR,2
+tau,2
+ARGI1,2
+eIF-4H,2
+HSP70 protein 8,2
+PEX5,2
+MP2K3,2
+PolyUbiquitin K48,2
+CD47,2
+"Lectin, mannose-binding 2",2
+PACAP-38,2
+a-Synuclein,2
+Cathepsin H,2
+IGFBP-2,2
+Eotaxin-3,2
+IL-17,2
+CSRP3,2
+MMP-8,2
+sLRP1,2
+IFN-a/b R1,2
+HMGN1,2
+LEG9,2
+CHIP,1
+CEBPB,1
+IL-10 Ra,1
+c-Jun,1
+SMAD3,1
+IL-23,1
+STAT6,1
+LPPL,1
+REG4,1
+Alpha enolase,1
+HIF-1a,1
+SECTM1,1
+PSP,1
+VEGF-D,1
+EFNB1,1
+SMOC1,1
+protein Z inhibitor,1
+ISLR2,1
+Vitronectin,1
+DSC2,1
+HXK1,1
+EFNB2,1
+HHLA2,1
+IL-1 sRII,1
+H2B2E,1
+HCE003167,1
+Coagulation Factor XI,1
+HCE000414,1
+Endostatin,1
+HCE004359,1
+TIMP-2,1
+HCE004331,1
+HCE003300,1
+HCE000483,1
+VEGF sR3,1
+HCE004152,1
+C5,1
+Apo E,1
+C8,1
+"CXCL16, soluble",1
+FGF-8B,1
+GIIE,1
+SCF sR,1
+GFRa-3,1
+HCE000104,1
+GFRa-2,1
+6Ckine,1
+VEGF,1
+4-1BB,1
+Angiopoietin-2,1
+B7,1
+CD30,1
+CLF-1/CLC Complex,1
+Cystatin C,1
+ERBB3,1
+ERBB4,1
+IL-12 Rb1,1
+Lymphotoxin b R,1
+Macrophage mannose receptor,1
+M-CSF R,1
+P-Cadherin,1
+PKC-Z,1
+Bone proteoglycan II,1
+iC3b,1
+IGFBP-5,1
+IGFBP-6,1
+OSM,1
+Protein S,1
+TECK,1
+EMAP-2,1
+G-CSF-R,1
+IL-1F7,1
+NADPH-P450 Oxidoreductase,1
+NovH,1
+Siglec-6,1
+Siglec-7,1
+BMP-14,1
+C3,1
+C3adesArg,1
+DRR1,1
+FGF-19,1
+FGF-20,1
+GDF-11/8,1
+Hemopexin,1
+I-309,1
+IGFBP-1,1
+Lactoferrin,1
+Fibrinogen,1
+Apo B,1
+Angiopoietin-1,1
+COMMD7,1
+Kallikrein 11,1
+Met,1
+MMP-17,1
+SPINT2,1
+sTie-1,1
+AIF1,1
+C5a,1
+PKC-D,1
+C7,1
+CD22,1
+HCC-1,1
+MPIF-1,1
+Apo E4,1
+DAN,1
+ER,1
+Factor D,1
+Growth hormone receptor,1
+IGFBP-4,1
+Properdin,1
+SCGF-beta,1
+TNFSF15,1
+CD36 ANTIGEN,1
+contactin-1,1
+Desmoglein-1,1
+ESAM,1
+Gro-b/g,1
+Histone H1.2,1
+IL-1Rrp2,1
+JAM-B,1
+LSAMP,1
+Calpastatin,1
+Ck-b-8-1,1
+DC-SIGN,1
+DC-SIGNR,1
+FSH,1
+IL-19,1
+ON,1
+resistin,1
+Trypsin,1
+BAFF,1
+C9,1
+Cathepsin B,1
+IgM,1
+IL-2,1
+Coagulation Factor Xa,1
+TIG2,1
+Siglec-3,1
+ADAMTS-5,1
+ARSB,1
+ATS1,1
+ATS13,1
+CATC,1
+CD39,1
+Coagulation Factor VII,1
+CRIS3,1
+WFKN1,1
+kallikrein 12,1
+LKHA4,1
+Nidogen,1
+TrATPase,1
+Aggrecan,1
+BGH3,1
+CD109,1
+CD5L,1
+CFC1,1
+Contactin-5,1
+FCG2B,1
+FCG3B,1
+FCGR1,1
+GFRa-1,1
+IGFBP-7,1
+IL24,1
+LRP8,1
+LY9,1
+Nectin-like protein 2,1
+TSP2,1
+AURKB,1
+BARK1,1
+BMP-1,1
+CAMK2A,1
+Carbonic anhydrase 6,1
+CDK8/cyclin C,1
+CRDL1,1
+Dkk-4,1
+FETUB,1
+IL-17 RD,1
+PAK3,1
+PIK3CA/PIK3R1,1
+PKB a/b/g,1
+Renin,1
+BFL1,1
+CAMK2D,1
+CD30 Ligand,1
+CDK1/cyclin B,1
+Chymase,1
+CSK21,1
+FN1.3,1
+IL-8,1
+IR,1
+Kallistatin,1
+PGCB,1
+PRKACA,1
+sE-Selectin,1
+Survivin,1
+XPNPEP1,1
+Angiotensinogen,1
+b2-Microglobulin,1
+b-ECGF,1
+BLC,1
+CNTF,1
+FGF-17,1
+GCP-2,1
+Integrin a1b1,1
+LEAP-1,1
+MDC,1
+Proteinase-3,1
+SDF-1,1
+TARC,1
+TGF-b3,1
+TSH,1
+BASI,1
+Cadherin-6,1
+MASP3,1
+Discoidin domain receptor 2,1
+DKK3,1
+EphB4,1
+FCN1,1
+GNS,1
+IL22RA1,1
+LY86,1
+Marapsin,1
+MMEL2,1
+NID2,1
+OBCAM,1
+OCAD1,1
+SLAF5,1
+TEC,1
+Calcineurin B a,1
+IGF-II receptor,1
+kallikrein 14,1
+MFRP,1
+CK-MB,1
+CSF-1,1
+STX1a,1
+EphA5,1
+FYN,1
+MAPK2,1
+MAPKAPK3,1
+MATK,1
+"GAPDH, liver",1
+PSA1,1
+TMA,1
+Lamin-B1,1
+MBD4,1
+HSP 70,1
+BPI,1
+C6,1
+Factor B,1
+MCP-4,1
+PAPP-A,1
+P-Selectin,1
+Thrombin,1
+Factor H,1
+IGF-I sR,1
+IL-1 R4,1
+MDM2,1
+PHI,1
+Thymidine kinase,1
+DYRK3,1
+MIC-1,1
+IFN-lambda 2,1
+SP-D,1
+CHST2,1
+Collectin Kidney 1,1
+ENPP7,1
+ENTP5,1
+hnRNP A/B,1
+MFGM,1
+SPARCL1,1
+Tropomyosin 2,1
+ZAP70,1
+SCGF-alpha,1
+ATS15,1
+CBX5,1
+CDON,1
+Clusterin,1
+CONA1,1
+EMR2,1
+HDGR2,1
+KYNU,1
+SH21A,1
+SLIK5,1
+PH,1
+41,1
+Protein disulfide isomerase A3,1
+Olfactomedin-4,1
+Gelsolin,1
+Cytidylate kinase,1
+PERL,1
+sL-Selectin,1
+TrkB,1
+Angiogenin,1
+Coagulation Factor X,1
+Calcineurin,1
+Coactosin-like protein,1
+Coagulation Factor V,1
+D-dimer,1
+Glutathione S-transferase Pi,1
+MIS,1
+MMP-13,1
+SHBG,1
+EPI,1
+AGR2,1
+ATP synthase beta chain,1
+Carbonic anhydrase I,1
+DERM,1
+DSC3,1
+Elafin,1
+FGFR4,1
+Fibrinogen g-chain dimer,1
+GP1BA,1
+HRG,1
+IF4A3,1
+Mn SOD,1
+Peroxiredoxin-6,1
+PPase,1
+sCD163,1
+CLM6,1
+CRTAM,1
+DAF,1
+EPHAA,1
+GPNMB,1
+IL-22BP,1
+JAG1,1
+MICB,1
+Notch-3,1
+NRX3B,1
+ROBO2,1
+sICAM-5,1
+SLAF6,1
+TCCR,1
+UNC5H4,1
+IMDH1,1
+MP2K4,1
+JNK2,1
+DRAK2,1
+IMDH2,1
+ABL2,1
+BCAR3,1
+RAC3,1
+Eotaxin,1
+Apo E2,1
+annexin VI,1
+CBPE,1
+CKAP2,1
+Cyclin B1,1
+DLL1,1
+hnRNP A2/B1,1
+LIGHT,1
+OMD,1
+PIM1,1
+SET,1
+ANP,1
+ALCAM,1
+ASGR1,1
+H6ST1,1
+PKC-B-II,1
+SRCN1,1
+Testican-1,1
+Testican-2,1
+EGF,1
+C3d,1
+Epo,1
+Noggin,1
+S100A12,1
+3HAO,1
+PSME1,1
+WISP-3,1
+PTH,1
+p53,1
+PolyUbiquitin K63,1
+LRP1B,1
+MYPC1,1
+N-terminal pro-BNP,1
+PSA,1
+CgA,1
+MMP-10,1
+Leptin,1
+KEAP1,1
+gpIIbIIIa,1
+PGM1,1
+FAM3B,1
+TFF1,1
+CD63,1
+Trefoil factor 2,1
+Galectin-7,1
+UB2G2,1
+Transgelin-2,1
+QORL1,1
+STAT3,0
+YKL-40,0
+CD59,0
+FABPL,0
+FAM3D,0
+NEGR1,0
+FSTL1,0
+CD177,0
+FLRT3,0
+LTBP4,0
+Adrenomedullin,0
+GI24,0
+Ephrin-A2,0
+ApoM,0
+C1QR1,0
+IL-1F6,0
+Myostatin,0
+C4b,0
+tPA,0
+TIMP-3,0
+HMG-1,0
+OPG,0
+HPV E7 Type 16,0
+IL-1 R AcP,0
+IL-13 Ra1,0
+MSP R,0
+suPAR,0
+TNF sR-I,0
+ERBB1,0
+MIA,0
+PECAM-1,0
+TACI,0
+TNFSF18,0
+MICA,0
+Activin A,0
+LAG-1,0
+LD78-beta,0
+MMP-3,0
+MMP-7,0
+Cadherin-5,0
+sFRP-3,0
+HDAC8,0
+CCL28,0
+PAI-1,0
+Apo E3,0
+Cytochrome P450 3A4,0
+IGF-I,0
+VCAM-1,0
+IL-17 sR,0
+PD-L2,0
+Siglec-9,0
+TGF-b R III,0
+IL-1b,0
+MRC2,0
+Myoglobin,0
+PARC,0
+"Haptoglobin, Mixed Type",0
+Galectin-3,0
+IDUA,0
+Cathepsin A,0
+Cathepsin S,0
+C2,0
+Granulysin,0
+MATN3,0
+METAP1,0
+RET,0
+SARP-2,0
+URB,0
+WFKN2,0
+Carbonic Anhydrase X,0
+CD23,0
+CNTN2,0
+Cystatin M,0
+FCG2A,0
+FCN2,0
+Heparin cofactor II,0
+RGMB,0
+TSP4,0
+CDK2/cyclin A,0
+CSK,0
+STAB2,0
+TPSB2,0
+BSP,0
+BTK,0
+CAMK1D,0
+Carbonic anhydrase XIII,0
+EphA1,0
+FSTL3,0
+IL-18 Ra,0
+LYN,0
+PDGF Rb,0
+STK16,0
+TrkA,0
+MIP-5,0
+Adiponectin,0
+CAMK1,0
+Chitotriosidase-1,0
+CLC7A,0
+DPP2,0
+Endothelin-converting enzyme 1,0
+LGMN,0
+MRCKB,0
+SLIK1,0
+TLR4:MD-2 complex,0
+VEGF sR2,0
+CYTD,0
+Endocan,0
+sRAGE,0
+IgE,0
+IL-20,0
+IL-6 sRa,0
+Tenascin,0
+uPA,0
+14-3-3,0
+AN32B,0
+Cofilin-1,0
+HNRPQ,0
+IF4G2,0
+M2-PK,0
+NCAM-L1,0
+PSA2,0
+Spondin-1,0
+CYTT,0
+CLC1B,0
+CRP,0
+sICAM-1,0
+SLPI,0
+PCSK7,0
+SPHK2,0
+ST4S6,0
+C1-Esterase Inhibitor,0
+C4,0
+MMP-12,0
+FUT5,0
+IL-34,0
+NXPH1,0
+PLCG1,0
+PPIB,0
+TFF3,0
+ASM3A,0
+TXD12,0
+STRATIFIN,0
+VEGF121,0
+C3a,0
+Hemoglobin,0
+IgD,0
+MMP-1,0
+Stanniocalcin-1,0
+40S ribosomal protein SA,0
+C1QBP,0
+CATZ,0
+ERP29,0
+LG3BP,0
+MAPK14,0
+NCC27,0
+SEPR,0
+EPHB2,0
+EphB6,0
+Nogo Receptor,0
+SREC-I,0
+UNC5H3,0
+cGMP-stimulated PDE,0
+PDE11,0
+PDE4D,0
+TAK1-TAB1,0
+TYK2,0
+Troponin T,0
+Prothrombin,0
+Caspase-10,0
+PKB beta,0
+Semaphorin 3E,0
+"Fas, soluble",0
+DR6,0
+CAD15,0
+SHPS1,0
+FABP,0
+CNDP1,0
+CYTN,0
+GAS1,0
+RANTES,0
+RGMA,0
+sICAM-2,0
+SLAF7,0
+RUXF,0
+NRP1,0
+Cripto,0
+NG36,0
+14-3-3 protein zeta/delta,0
+aldolase A,0
+Ferritin,0
+Tpo,0
+14-3-3 protein theta,0
+Tropomyosin 4,0
+ROR1,0
+CATF,0
+PLXB2,0

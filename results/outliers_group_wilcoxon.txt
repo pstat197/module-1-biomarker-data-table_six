@@ -1,0 +1,8 @@
+Wilcoxon rank-sum test for n_out by group
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  n_out by group
+W = 3028.5, p-value = 0.8166
+alternative hypothesis: true location shift is not equal to 0
+
